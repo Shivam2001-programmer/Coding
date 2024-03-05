@@ -1,0 +1,16 @@
+{
+    "slides": [
+        {
+            "src": "https://capabl.in/Capabl%20Logo-01.png",
+            "para": "Best thing about CJ is I can customize the structure of the practice problems/projects as per my learning plan while getting features better than LeetCode at a fairly affordable (and extremely reasonable) price."
+        },
+        {
+            "src": "https://picsum.photos/seed/img2/600/400",
+            "alt": "Image 2 for carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img3/600/400",
+            "alt": "Image 3 for carousel"
+        }
+    ]
+}
